@@ -1,0 +1,9 @@
+.riddle {
+    margin-bottom: 20px;
+}
+.open-answer {
+    margin-bottom: 10px;
+}
+.answer {
+    display: none;
+}
